@@ -1,0 +1,4 @@
+"""Command."""
+
+class Command:
+    """Command"""
